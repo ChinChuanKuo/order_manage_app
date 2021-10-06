@@ -1,0 +1,234 @@
+{
+  "flytechTile": "Flytech",
+  "@flytechTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signinTile": "Signin",
+  "@signinTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signoutTile": "Signout",
+  "@signoutTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "profileTile": "Profile",
+  "@profileTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "manageTile": "Manage",
+  "@manageTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "moneyTile": "Stored",
+  "@moneyTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "settingsTile": "Settings",
+  "@settingsTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "historyTile": "History",
+  "@historyTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "personalTile": "Personal",
+  "@personalTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "calendarTile": "Calendar",
+  "@calendarTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "suggestTile": "Suggest",
+  "@suggestTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "previewTile": "Preview",
+  "@previewTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "notificationsText": "Notifications",
+  "@notificationsText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "readyAccountText": "Already have an Account？",
+  "@readyAccountText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "dontAccountText": "Don’t have an Account？",
+  "@dontAccountText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "successMessageText": "Congratulations, Information Has Been Updated",
+  "@successMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "wrongMessageText": "Please Enter Current Infomation",
+  "@wrongMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "dontMessageText": "You haven't ordered any food yet.",
+  "@dontMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcomeText": "Welcome",
+  "@welcomeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signupText": "Sign Up",
+  "@signupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signinText": "Sign In",
+  "@signinText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "emailText": "Office Id",
+  "@emailText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "passwordText": "Password",
+  "@passwordText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "notificationText": "Notification",
+  "@notificationText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "darkText": "Dark Mode",
+  "@darkText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "deviceText": "Device",
+  "@deviceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "departmentText": "Department",
+  "@departmentText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "workPlaceText": "Workplace",
+  "@workPlaceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "memoryText": "Memory",
+  "@memoryText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "manufacturerText": "Manufacturer",
+  "@manufacturerText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "releaseText": "Release",
+  "@releaseText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "uuidText": "UUID",
+  "@uuidText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "nameText": "Name",
+  "@nameText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "setupText": "Setup",
+  "@setupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "functionText": "Function",
+  "@functionText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "restartText": "Restart",
+  "@restartText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseText": "Choose",
+  "@chooseText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "moreText": "More",
+  "@moreText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "addText": "Add",
+  "@addText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "editText": "Edit",
+  "@editText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "deleteText": "Delete",
+  "@deleteText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "createText": "Create",
+  "@createText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "sureText": "Sure",
+  "@sureText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "waitedText": "Wait",
+  "@waitedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "closedText": "Close",
+  "@closedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "storedText": "Stored",
+  "@storedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "pickupText": "Pickup",
+  "@pickupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "businessText": "Business",
+  "@businessText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "timeText": "Time",
+  "@timeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "shopText": "Shop",
+  "@shopText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "menuText": "Menu",
+  "@menuText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "priceText": "Price",
+  "@priceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "balanceText": "Balance",
+  "@balanceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "phoneText": "Phone Number",
+  "@phoneText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "addressText": "Address",
+  "@addressText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "totalText": "Total",
+  "@totalText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "officeText": "Office",
+  "@officeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "monthText": "Month",
+  "@monthText": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

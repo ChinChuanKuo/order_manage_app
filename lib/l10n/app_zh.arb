@@ -1,0 +1,234 @@
+{
+  "flytechTile": "飛捷科技",
+  "@flytechTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signinTile": "登入",
+  "@signinTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signoutTile": "登出",
+  "@signoutTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "profileTile": "個人檔案",
+  "@profileTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "manageTile": "管理",
+  "@manageTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "moneyTile": "儲值",
+  "@moneyTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "settingsTile": "設定",
+  "@settingsTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "historyTile": "歷史紀錄",
+  "@historyTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "personalTile": "個人資訊",
+  "@personalTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "calendarTile": "預排月曆",
+  "@calendarTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "suggestTile": "建議",
+  "@suggestTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "previewTile": "預覽",
+  "@previewTile": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "notificationsText": "通知",
+  "@notificationsText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "readyAccountText": "已經擁有帳號？",
+  "@readyAccountText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "dontAccountText": "沒有任何帳號？",
+  "@dontAccountText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "successMessageText": "恭喜, 資料已更新",
+  "@successMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "wrongMessageText": "請輸入正確的資料",
+  "@wrongMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "dontMessageText": "您尚未訂購任何餐點",
+  "@dontMessageText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcomeText": "歡迎",
+  "@welcomeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signupText": "前往註冊",
+  "@signupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "signinText": "前往登入",
+  "@signinText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "emailText": "員工編號",
+  "@emailText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "passwordText": "密碼",
+  "@passwordText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "notificationText": "通知訊息",
+  "@notificationText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "darkText": "暗黑模式",
+  "@darkText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "deviceText": "裝置",
+  "@deviceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "departmentText": "中心部門",
+  "@departmentText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "workPlaceText": "工作部門",
+  "@workPlaceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "memoryText": "記憶體",
+  "@memoryText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "manufacturerText": "製造商",
+  "@manufacturerText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "releaseText": "發佈日期",
+  "@releaseText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "uuidText": "唯一碼",
+  "@uuidText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "nameText": "名稱",
+  "@nameText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "setupText": "設定",
+  "@setupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "functionText": "功能",
+  "@functionText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "restartText": "重新開張",
+  "@restartText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseText": "選擇",
+  "@chooseText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "moreText": "更多",
+  "@moreText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "addText": "增加",
+  "@addText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "editText": "變更",
+  "@editText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "deleteText": "刪除",
+  "@deleteText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "createText": "建立",
+  "@createText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "sureText": "確認",
+  "@sureText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "waitedText": "等待",
+  "@waitedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "closedText": "結束",
+  "@closedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "storedText": "儲值",
+  "@storedText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "pickupText": "提取",
+  "@pickupText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "businessText": "營業",
+  "@businessText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "timeText": "時間",
+  "@timeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "shopText": "店家",
+  "@shopText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "menuText": "菜單",
+  "@menuText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "priceText": "價格",
+  "@priceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "balanceText": "餘額",
+  "@balanceText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "phoneText": "電話號碼",
+  "@phoneText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "addressText": "地址",
+  "@addressText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "totalText": "總金額",
+  "@totalText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "officeText": "值班人員",
+  "@officeText": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "monthText": "月份",
+  "@monthText": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
